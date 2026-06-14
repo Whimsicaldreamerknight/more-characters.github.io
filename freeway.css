@@ -1,1 +1,299 @@
+body {
+            background-color: #ff80b3; 
+        }
+        
+        .p {
+        font-size: 28px;
+    background: #fff9d8;
+    padding: 15px;
+    border-radius: 15px;
+    width: fit-content;
+    color: #ff80b3;
+    text-align: center;
+    margin-top: 15px;
+}
+        
+        .emilys-candy-regular {
+  font-family: "Emilys candy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
 
+
+a {
+    text-decoration: none;
+}
+
+                
+        .wrapper {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0 20px;
+            box-sizing: border-box;
+        }
+        
+        .charabutton {
+            display: flex;
+  position: absolute;
+  right: 440px;
+  top: 100px;
+  width: 130px; 
+        }
+        
+        .episodebutton {
+            display: flex;
+  position: absolute;
+  right: 300px;
+  top: 100px;
+  width: 130px; 
+        }
+        
+        .worldbutton {
+            display: flex;
+  position: absolute;
+  right: 160px;
+  top: 100px;
+  width: 130px; 
+        }
+        
+        .artbutton {
+            display: flex;
+  position: absolute;
+  right: 30px;
+  top: 100px;
+  width: 130px; 
+        }
+        
+        
+        
+        .kimstand {
+        display: flex;
+  position: absolute;
+  right: 320px;
+  bottom: 10px;
+  width: 460px; 
+        }
+        
+        .animekim {
+            display: flex;
+            position: absolute;
+            right: 15px;
+            bottom: 380px;
+            width: 260px;
+        }
+        
+        .mimisit {
+            display: flex;
+            position: absolute;
+            right: 15px;
+            bottom: 5px;
+            width: 300px;
+        }
+        
+        
+        .butterfly {
+            display: flex;
+            position: absolute;
+            top: 200px;
+            right: 100px;
+            bottom: 15px;
+            width: 150px;
+        }
+        
+        
+        .welcome {
+            display: flex;
+            position: absolute;
+            top: 180px;
+            right: 500px;
+            bottom: 200px;
+            width: 250px;
+        }
+        
+        .button {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+   
+        }
+        
+        .kimbutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .holobutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .tafibutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .leonbutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .hopebutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .mimibutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .rudybutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        
+        .peggybutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .jackbutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .jerrybutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .bonbutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .pollybutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+       
+       
+       .beabutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .elliebutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .edithbutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .londonbutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .michellebutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        
+        .jessebutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .zoeybutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .dustinbutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+       
+       .chantalbutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+        
+        .dezbutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+       
+       .cocobutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+       
+       .winibutton {
+            display: flex;
+  
+  width: 200px; 
+        }
+       
+       
+        .button img {
+        width: 200px
+        height: auto
+    transition: all 0.2s ease;
+}
+
+     
+.button img:hover {
+    transform: translateY(-5px);
+
+    filter:
+        brightness(1.1)
+        drop-shadow(0 0 20px #ffffff)
+        drop-shadow(0 0 40px #ffb6d9)
+        drop-shadow(0 0 60px #ff69b4);
+}
+
+.button img:active {
+    transform: scale(0.97);
+}
+        
+        
+        
+        .dots {
+  width: 100%;
+  height: 100vh;
+  background-color: #ffffbf;
+ 
+  background-image: radial-gradient(#ff80b3 2px, transparent 2px);
+
+  background-size: 24px 24px;
+          }
